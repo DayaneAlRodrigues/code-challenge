@@ -1,5 +1,0 @@
-Para executar a solução do primeiro desafio da soma de dois números 
-basta ter o node instalado na máquina e entrar na pasta do arquivo 
-e digitar o seguinte comando:
-
-node sum.js
